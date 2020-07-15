@@ -1,7 +1,10 @@
-## kerochuu&nbsp;🐸<img src="https://github.com/kerochuu/kerochuu/blob/master/kero.jpg" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fblog.naver.com%2Fkerochuu)](https://hits.seeyoufarm.com)
+## kerochuu&nbsp;🐸
 
 Enjoying solve **algorithms** on Baekjoon, SWEA, etc.
+
 And I also have fun solving **data structure** implementation problems with **JAVA**.
+
+<br>
 
 History
 - [SEMES CO.,LTD.](https://www.semes.com/index.do?ar_action=changeLang&ar_lang=EN) - QD-CF Pattern SW Engineer
