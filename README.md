@@ -4,7 +4,7 @@ Enjoying solve **algorithms** on Baekjoon, SWEA, etc.
 
 And I also have fun solving **data structure** implementation problems with **JAVA**.
 
-<br>
+
 - [SEMES CO.,LTD.](https://www.semes.com/index.do?ar_action=changeLang&ar_lang=EN) - QD-CF Pattern SW Engineer
 - [Goorm CO.,LTD.](https://edu.goorm.io/) - Algorithm Expert
 - [Samsung Software Academy For Youth / SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) - #1
