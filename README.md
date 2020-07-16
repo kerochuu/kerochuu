@@ -13,8 +13,8 @@ And I also have fun solving **data structure** implementation problems with **JA
 
 
 ### Check my additional info here!
-- [ Baekjoon &nbsp;<img src="https://postfiles.pstatic.net/MjAxOTEyMjRfMjA5/MDAxNTc3MTkyNTc5Mjkx.p_Tb59oUPn3vNNRJKnSZWPTkdxywV0MRotMO8ARxFm8g.4Asj8GBetDaak_IRqUuIZirj7I52VXmA6ppxj25RI80g.PNG.occidere/boj.png?type=w773" width="24">](https://www.acmicpc.net/user/kerochuu)
-- [ Naver Blog &nbsp;<img src="https://postfiles.pstatic.net/MjAxOTEyMzBfMjQ3/MDAxNTc3Njg5NDIzNTM4.Bb4I_JcTmoJTw5QopVY1_2-fFosbZUPz9j35wERCsDQg._fb8TvSH60N4X1xSHHEtnn_uLKlrSHejTymmPLVXXr8g.PNG.occidere/NAVER_BLOG_LOGO.png?type=w773" width="24">](https://blog.naver.com/kerochuu)
+- [ <img src="https://postfiles.pstatic.net/MjAxOTEyMjRfMjA5/MDAxNTc3MTkyNTc5Mjkx.p_Tb59oUPn3vNNRJKnSZWPTkdxywV0MRotMO8ARxFm8g.4Asj8GBetDaak_IRqUuIZirj7I52VXmA6ppxj25RI80g.PNG.occidere/boj.png?type=w773" width="24"> &nbsp;&nbsp; Baekjoon ](https://www.acmicpc.net/user/kerochuu)
+- [<img src="https://postfiles.pstatic.net/MjAxOTEyMzBfMjQ3/MDAxNTc3Njg5NDIzNTM4.Bb4I_JcTmoJTw5QopVY1_2-fFosbZUPz9j35wERCsDQg._fb8TvSH60N4X1xSHHEtnn_uLKlrSHejTymmPLVXXr8g.PNG.occidere/NAVER_BLOG_LOGO.png?type=w773" width="24">  &nbsp; &nbsp; Naver Blog](https://blog.naver.com/kerochuu)
 
 <!--
 **kerochuu/kerochuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
