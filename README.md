@@ -12,10 +12,10 @@ And I also have fun solving **data structure** implementation problems with **JA
 - [Dongguk Univ.](http://www.dongguk.edu/mbs/kr/index.jsp) - Computer Engneering
 
 
-### Check my additional info here!
-- [ <img src="https://github.com/kerochuu/kerochuu/tree/master/img/baekjoon.png" width="110"> &nbsp;&nbsp; Baekjoon ](https://www.acmicpc.net/user/kerochuu)
-- [<img src="https://github.com/kerochuu/kerochuu/tree/master/img/solved_ac.png" width="90"> &nbsp;&nbsp; Solved.ac ](https://solved.ac/profile/kerochuu)
-- [<img src="https://github.com/kerochuu/kerochuu/tree/master/img/naver_blog.png" width="100"> &nbsp;&nbsp; Naver Blog ](https://blog.naver.com/kerochuu)
+### Check my additional info here!  
+- [ <img src="https://github.com/kerochuu/kerochuu/blob/master/img/baekjoon.png" width="110"> &nbsp;&nbsp; Baekjoon ](https://www.acmicpc.net/user/kerochuu)
+- [<img src="https://github.com/kerochuu/kerochuu/blob/master/img/solved_ac.png" width="90"> &nbsp;&nbsp; Solved.ac ](https://solved.ac/profile/kerochuu)
+- [<img src="https://github.com/kerochuu/kerochuu/blob/master/img/naver_blog.png" width="100"> &nbsp;&nbsp; Naver Blog ](https://blog.naver.com/kerochuu)
 
 
 <!--
