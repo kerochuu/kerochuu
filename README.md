@@ -14,8 +14,8 @@ And I also have fun solving **data structure** implementation problems with **JA
 
 ### Check my additional info here!
 - [ <img src="https://d2gd6pc034wcta.cloudfront.net/images/logo@2x.png" width="70"> &nbsp;&nbsp; Baekjoon ](https://www.acmicpc.net/user/kerochuu)
-- [<img src="https://solved.ac/res/logo-whitetext.svg" width="70"> &nbsp;&nbsp; Solved.ac ](https://solved.ac/profile/kerochuu)
-- [<img src="https://postfiles.pstatic.net/MjAxOTEyMzBfMjQ3/MDAxNTc3Njg5NDIzNTM4.Bb4I_JcTmoJTw5QopVY1_2-fFosbZUPz9j35wERCsDQg._fb8TvSH60N4X1xSHHEtnn_uLKlrSHejTymmPLVXXr8g.PNG.occidere/NAVER_BLOG_LOGO.png?type=w773" width="20"> &nbsp;&nbsp; Naver Blog ](https://blog.naver.com/kerochuu)
+- [<img src="https://m.blog.naver.com/PostView.nhn?blogId=kerochuu&logNo=222032546384&navType=tl#" width="70"> &nbsp;&nbsp; Solved.ac ](https://solved.ac/profile/kerochuu)
+- [<img src="https://m.blog.naver.com/PostView.nhn?blogId=kerochuu&logNo=222032546384&navType=tl#" width="80"> &nbsp;&nbsp; Naver Blog ](https://blog.naver.com/kerochuu)
 
 
 <!--
