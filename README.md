@@ -13,8 +13,8 @@ And I also have fun solving **data structure** implementation problems with **JA
 
 
 ### Check my additional info here!  
-- [ <img src="https://github.com/kerochuu/kerochuu/blob/master/img/baekjoon.png" width="115"> &nbsp;&nbsp; Baekjoon ](https://www.acmicpc.net/user/kerochuu)
-- [ <img src="https://github.com/kerochuu/kerochuu/blob/master/img/solved_ac.png" width="100"> &nbsp;&nbsp; Solved.ac ](https://solved.ac/profile/kerochuu)
+- [ <img src="https://github.com/kerochuu/kerochuu/blob/master/img/baekjoon.png" width="118"> &nbsp;&nbsp; Baekjoon ](https://www.acmicpc.net/user/kerochuu)
+- [ <img src="https://github.com/kerochuu/kerochuu/blob/master/img/solved_ac.png" width="110"> &nbsp;&nbsp; Solved.ac ](https://solved.ac/profile/kerochuu)
 - [ <img src="https://github.com/kerochuu/kerochuu/blob/master/img/naver_blog.png" width="110"> &nbsp;&nbsp; Naver Blog ](https://blog.naver.com/kerochuu)
 
 <!--
