@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=fadadd&text=kerochuu~%20%20%E2%8E%9D%E0%BC%BC%20%E2%97%95%D0%B4%20%E2%97%95%20%E0%BC%BD%E2%8E%A0&fontAlign=25&fontSize=30&height=100&section=header)
-# kerochuu~&nbsp;  ⎝༼ ◕д ◕ ༽⎠&nbsp;
+![header](https://capsule-render.vercel.app/api?type=slice&color=fadadd&text=kerochuu~%20%20%E2%8E%9D%E0%BC%BC%20%E2%97%95%D0%B4%20%E2%97%95%20%E0%BC%BD%E2%8E%A0&fontAlign=25&fontSize=35&height=120&section=header)
 
 Enjoying solve **algorithms** on Baekjoon, SWEA, etc.
 
