@@ -17,7 +17,7 @@ And I also have fun solving **data structure** implementation problems with **JA
 - [ <img src="https://github.com/kerochuu/kerochuu/blob/master/img/solved_ac.png" width="110">](https://solved.ac/profile/kerochuu)
 - [ <img src="https://github.com/kerochuu/kerochuu/blob/master/img/naver_blog.png" width="110">](https://blog.naver.com/kerochuu)
 
-![footer](https://capsule-render.vercel.app/api?type=slide&color=fadadd&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=slice&color=fadadd&height=80&section=footer)
 <!--
 **kerochuu/kerochuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
