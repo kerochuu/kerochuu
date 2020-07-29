@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=fadadd&height=80&section=header)
+![header](https://capsule-render.vercel.app/api?type=rect&color=fadadd&height=80&section=header)
 # kerochuu~&nbsp;  ⎝༼ ◕д ◕ ༽⎠&nbsp;
 
 Enjoying solve **algorithms** on Baekjoon, SWEA, etc.
@@ -18,7 +18,7 @@ And I also have fun solving **data structure** implementation problems with **JA
 - [ <img src="https://github.com/kerochuu/kerochuu/blob/master/img/solved_ac.png" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; Solved.ac ](https://solved.ac/profile/kerochuu)
 - [ <img src="https://github.com/kerochuu/kerochuu/blob/master/img/naver_blog.png" width="110"> &nbsp;&nbsp;&nbsp;&nbsp; Naver Blog ](https://blog.naver.com/kerochuu)
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=fadadd&height=80&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=rect&color=fadadd&height=80&section=footer)
 <!--
 **kerochuu/kerochuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
