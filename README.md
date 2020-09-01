@@ -16,6 +16,7 @@ And I also have fun solving **data structure** implementation problems with **JA
 
 
 ### Check my additional info here!  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kerochuu)](https://solved.ac/kerochuu)
 - [ <img src="https://github.com/kerochuu/kerochuu/blob/master/img/baekjoon.png" width="118">](https://www.acmicpc.net/user/kerochuu)
 - [ <img src="https://github.com/kerochuu/kerochuu/blob/master/img/solved_ac.png" width="110">](https://solved.ac/profile/kerochuu)
 - [ <img src="https://github.com/kerochuu/kerochuu/blob/master/img/naver_blog.png" width="110"> <- This is my home~😍](https://blog.naver.com/kerochuu)
