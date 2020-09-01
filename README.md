@@ -15,7 +15,7 @@ And I also have fun solving **data structure** implementation problems with **JA
 - [Dongguk Univ.](http://www.dongguk.edu/mbs/kr/index.jsp) - Computer Engneering
 
 
-### Check my additional info here!  [_<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kerochuu">](https://www.acmicpc.net/user/kerochuu)
+### Check my additional info here!  [<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kerochuu">](https://www.acmicpc.net/user/kerochuu)
   
 - [ <img src="https://github.com/kerochuu/kerochuu/blob/master/img/baekjoon.png" width="118">](https://www.acmicpc.net/user/kerochuu)
 - [ <img src="https://github.com/kerochuu/kerochuu/blob/master/img/solved_ac.png" width="110">](https://solved.ac/profile/kerochuu)
